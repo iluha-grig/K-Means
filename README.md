@@ -1,2 +1,2 @@
 # K-Means
-K-Means clustering algorithm
+K-Means clustering algorithm.
